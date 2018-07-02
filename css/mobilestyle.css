@@ -1,0 +1,42 @@
+body{
+			background-image: url(../picture/x3.jpg);
+			background-repeat:repeat;
+			background-size: ;
+	}
+.top{
+			width:360px;
+			height:300px;
+			text-align:center;
+			margin-left:auto;
+			margin-right:auto;
+			color:#000000;
+	}
+#next{
+	width:360px;
+	height:300px;
+	
+	
+}
+.imagetable {
+					font-family: verdana,arial,sans-serif;
+					font-size:24px;
+					font-weight:bold;
+					color:#333333;
+					border-width: 1px;
+					border-color: #999999;
+					border-collapse: collapse;
+					width:250px;
+					height:50px;
+					float:left;
+}
+#son{
+		width:280px;
+		height:200px;
+		margin-left:auto;
+		margin-right:auto;
+		overflow:auto;
+		background-image: url(../picture/x3.jpg);
+		background-size:300px 200px;
+		border:8px #FFD382 groove; 
+		
+	}

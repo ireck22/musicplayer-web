@@ -1,0 +1,102 @@
+body{
+		background-image: url(../picture/aa.jpg);
+		background-repeat:no-repeat;
+		background-size:1920px 1080px ;
+}
+.top{
+		width:900px;
+		height:400px;
+		text-align:center;
+		margin-left:auto;
+		margin-right:auto;
+		color:#000000;
+}
+#bottom{
+			width:1100px;
+			height:600px;
+			text-align:center;
+			margin-left:auto;
+			margin-right:auto;
+			
+}
+#bottom-1{
+			width:1100px;
+			height:600px;
+			margin-left:auto;
+			margin-right:auto;
+			
+}
+
+.left_right{
+				width:300px;
+				height:200px;
+				background-color:#BBFF00;
+				color:#000000;
+				float:left;		
+}
+#rght{
+				width:400px;
+				height:200px;
+				background-color:#BBFF00;
+				color:#000000;
+				float:left;		
+}
+#good{
+	width:300px;
+	height:100px;
+	background-color:#BBFF00;
+	color:#33CCFF;
+	
+}
+.inno{
+	width:100px;
+	height:20px;
+}
+.middle{
+			width:455px;
+			height:200px;
+			background-color:#BBFF00;
+			color:#000000;
+			float:left;
+			margin-left:0px;
+			
+}
+#son{
+	width:280px;
+	height:200px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:auto;
+	background-image: url(../picture/x3.jpg);
+	background-size:300px 200px;
+	border:8px #FFD382 groove; 
+	
+}
+.imagetable {
+				font-family: verdana,arial,sans-serif;
+				font-size:24px;
+				font-weight:bold;
+				color:#333333;
+				border-width: 1px;
+				border-color: #999999;
+				border-collapse: collapse;
+				width:250px;
+				height:50px;
+				float:left;
+}
+.imagetable th {
+				background:#b5cfd2 url('../picture/cell-blue.jpg');
+				border-width: 5px;
+				padding: 8px;
+				border-style: solid;
+				border-color: #999999;
+				
+}
+.imagetable td {
+				background:#dcddc0 url('../picture/grey.jpg');
+				border-width: 5px;
+				padding: 8px;
+				border-style: solid;
+				border-color: #999999;
+			
+}
